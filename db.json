@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "body": "lorem ips",
+      "like": 3
+    },
+    {
+      "id": 1,
+      "title": "JS",
+      "body": "lorem ips",
+      "like": 3
+    },
+    {
+      "id": 1,
+      "title": "CSS",
+      "body": "lorem ips",
+      "like": 3
+    },
+    {
+      "id": 1,
+      "title": "AJAX",
+      "body": "lorem ips",
+      "like": 3
+    },
+    {
+      "id": 1,
+      "title": "DOT.net",
+      "body": "lorem ips",
+      "like": 3
+    },
+    {
+      "id": 1,
+      "title": "PHP",
+      "body": "lorem ips",
+      "like": 3
+    }
+  ]
+}
