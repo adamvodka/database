@@ -1,40 +1,114 @@
 {
-  "articles": [
+  "users": [
     {
-      "id": 1,
-      "title": "HTML",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "like": 3
+      "userData": {
+        "username": "Marek",
+        "email": "marek@gmail.com",
+        "board": {
+          "projects": {
+            "project": {
+              "projectName": "zadania",
+              "projectColumns": {
+                "columnName": "todo",
+                "tasks": {
+                  "task": {
+                    "taskname": "iść",
+                    "taskurl": "http://wp.pl"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     },
     {
-      "id": 2,
-      "title": "JS",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "like": 3
+      "userData": {
+        "username": "Bogusław",
+        "email": "boguslaw@gmail.com",
+        "board": {
+          "projects": {
+            "project": {
+              "projectName": "zadania",
+              "projectColumns": {
+                "columnName": "todo",
+                "tasks": {
+                  "task": {
+                    "taskname": "iść",
+                    "taskurl": "http://wp.pl"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     },
     {
-      "id": 3,
-      "title": "CSS",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "like": 3
+      "userData": {
+        "username": "Małgosia",
+        "email": "malgosia@gmail.com",
+        "board": {
+          "projects": {
+            "project": {
+              "projectName": "zadania",
+              "projectColumns": {
+                "columnName": "todo",
+                "tasks": {
+                  "task": {
+                    "taskname": "iść",
+                    "taskurl": "http://wp.pl"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     },
     {
-      "id": 4,
-      "title": "AJAX",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "like": 3
+      "userData": {
+        "username": "Wiktor",
+        "email": "wiktor@gmail.com",
+        "board": {
+          "projects": {
+            "project": {
+              "projectName": "zadania",
+              "projectColumns": {
+                "columnName": "todo",
+                "tasks": {
+                  "task": {
+                    "taskname": "iść",
+                    "taskurl": "http://wp.pl"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     },
     {
-      "id": 5,
-      "title": "DOT.net",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "like": 3
-    },
-    {
-      "id": 6,
-      "title": "PHP",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "like": 3
+      "userData": {
+        "username": "Adam",
+        "email": "adam@gmail.com",
+        "board": {
+          "projects": {
+            "project": {
+              "projectName": "zadania",
+              "projectColumns": {
+                "columnName": "todo",
+                "tasks": {
+                  "task": {
+                    "taskname": "iść",
+                    "taskurl": "http://wp.pl"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   ]
 }
